@@ -11,6 +11,7 @@ I'm Tuan Ngoc, a CS student at VGU and aspiring as software developer.
 ![](https://img.shields.io/badge/Code-SpringBoot-informational?style=flat&logo=Spring&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-C++-informational?style=C++&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-C-informational?style=C&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Python-informational?style=Python&logoColor=white&color=4AB197)
 
 <details>
 
