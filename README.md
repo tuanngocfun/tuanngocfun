@@ -13,6 +13,8 @@ I'm Tuan Ngoc, a CS student at VGU and aspiring as software developer.
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=4AB197)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuanngocfun&hide=javascript,html,c,assembly&langs_count=10&count_private=true&exclude_repo=sortBigFile&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <details>
 
 <summary>More Skills</summary>
