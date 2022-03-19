@@ -6,14 +6,15 @@ I'm Tuan Ngoc, a CS student at VGU and aspiring as software developer.
 - 👯 Area of interest: Software, Website development, Machine Learning, Algorithm, Data Science.
 - ⚡ Fun fact: I love playing video games, swimming, badminton, and playing board games.
 
+## &#x1f4c8; GitHub Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuanngocfun&hide=javascript,html,c,assembly&langs_count=10&count_private=true&exclude_repo=sortBigFile&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 💼 Skills
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-SpringBoot-informational?style=flat&logo=Spring&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C++&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=4AB197)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuanngocfun&hide=javascript,html,c,assembly&langs_count=10&count_private=true&exclude_repo=sortBigFile&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <details>
 
