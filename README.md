@@ -32,6 +32,10 @@ I'm Tuan Ngoc, a CS student at VGU and aspiring as software developer.
   ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
   
 <br>
+  
+  ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
+  
+<br>
 
 </details>
 
