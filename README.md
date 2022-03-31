@@ -3,7 +3,7 @@
 I'm Tuan Ngoc, a CS student at VGU and aspiring as software developer.
 
 - 🔭 I’m currently learning on "Web and Software build"
-- 👯 Area of interest: Software, Website development, Machine Learning, Algorithm, Data Science, and security(i.e,pen test)
+- 👯 Area of interest: Software, Website development, Machine Learning, Algorithm, Data Science, and security.
 - ⚡ Fun fact: I love playing video games, swimming, badminton, and playing board games.
 
 ## &#x1f4c8; GitHub Stats
