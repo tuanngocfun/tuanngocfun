@@ -4,7 +4,7 @@ I'm Tuan Ngoc, a CS student at VGU and aspiring as software developer.
 
 - 🔭 I’m currently learning on "Web and Software build"
 - 👯 Area of interest: Software, Website development, Machine Learning, Algorithm, Data Science, and security.
-- ⚡ Fun fact: I love playing video games, swimming, badminton, and playing board games.
+- ⚡ Fun fact: I love playing video games, swimming, badminton, football, and playing board games.
 
 ## &#x1f4c8; GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuanngocfun&layout=compact)](https://github.com/tuanngocfun/github-readme-stats)
