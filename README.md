@@ -41,5 +41,8 @@ I'm Tuan Ngoc, a CS student at VGU and aspiring as software developer.
 
 ### Connect with me :smiley:
 <a href="https://twitter.com/tuanngoc040301">
-  <img align="left" alt="tuan ngocr" width="21px" src="https://github.com/tuanngocfun/Tuan-Ngoc/blob/main/twitter.png" />
+  <img align="left" alt="tuan ngoc" width="21px" src="https://github.com/tuanngocfun/Tuan-Ngoc/blob/main/twitter.png" />
+</a>
+<a href="https://www.linkedin.com/in/nguyen-tuan-ngoc-b1907a227/">
+  <img align="left" alt="tuan ngoc" width="21px" src="https://github.com/tuanngocfun/Tuan-Ngoc/blob/main/linkedin.png" />
 </a>
