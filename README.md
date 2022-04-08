@@ -46,3 +46,6 @@ I'm Tuan Ngoc, a CS student at VGU and aspiring as software developer.
 <a href="https://www.linkedin.com/in/nguyen-tuan-ngoc-b1907a227/">
   <img align="left" alt="tuan ngoc" width="21px" src="https://github.com/tuanngocfun/Tuan-Ngoc/blob/main/linkedin.png" />
 </a>
+<a href="https://www.reddit.com/user/urLGTM">
+  <img align="left" alt="tuan ngoc" width="21px" src="https://github.com/tuanngocfun/Tuan-Ngoc/blob/main/reddit.jpg" />
+</a>
