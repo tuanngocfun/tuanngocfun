@@ -50,3 +50,6 @@ I'm Tuan Ngoc, a CS student at VGU and aspiring as software developer.
 <a href="https://www.reddit.com/user/urLGTM">
   <img align="left" alt="tuan ngoc" width="21px" src="https://github.com/tuanngocfun/Tuan-Ngoc/blob/main/reddit.png" />
 </a>
+<a href="https://gitlab.com/tuanngocfun">
+  <img align="left" alt="tuan ngoc" width="21px" src="https://github.com/tuanngocfun/Tuan-Ngoc/blob/main/gitlab.png" />
+</a>
