@@ -8,7 +8,9 @@ I'm Tuan Ngoc, a CS student at VGU and aspiring as software developer.
 - ⚡ Fun fact: I love playing video games, swimming, badminton, football, and playing board games.
 
 ## &#x1f4c8; GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuanngocfun&layout=compact)](https://github.com/tuanngocfun/github-readme-stats)
+<a href="https://github.com/tuanngocfun">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuanngocfun&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
 
 ## 💼 Skills
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
