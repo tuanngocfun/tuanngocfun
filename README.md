@@ -19,7 +19,7 @@ I'm Tuan Ngoc, a CS student at VGU and aspiring as software developer.
 ![](https://img.shields.io/badge/Code-HTML-informational??style=plastic&logo=HTML&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Go-informational??style=plastic&logo=Go&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-postgreSQL-informational?style=flat&logo=psql&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-postgreSQL-informational?style=flat&logo=postgreSQL&logoColor=white&color=4AB197)
 
 <details>
 
