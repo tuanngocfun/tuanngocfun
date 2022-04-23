@@ -24,9 +24,6 @@ I'm Tuan Ngoc, a CS student at VGU and aspiring as software developer.
 <details>
 
 <summary>More Skills</summary>
-<br>
-  
-  ![](https://img.shields.io/badge/Build-tool-Gradle-informational?style=flat&logo=Gradle&logoColor=blueviolet&color=4AB197)
   
 <br>
   
@@ -39,6 +36,7 @@ I'm Tuan Ngoc, a CS student at VGU and aspiring as software developer.
   
 <br>
 
+  ![](https://img.shields.io/badge/Tools-Gradle-informational?style=flat&logo=Gradle&logoColor=blueviolet&color=4AB197)
   ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
   ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
   ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=Docker&logoColor=white&color=4AB197)
